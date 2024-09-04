@@ -9,22 +9,11 @@ class Solution {
         int d = 0;
         int result = 0;
         for(int command: commands){
-            if(command == -1){
-                d++;
-                if(d == 4)
-                    d = 0;
-            }
-            else if(command == -2){
-                d--;
-                if(d == -1)
-                    d = 3;
-            }
-            else{
-                while(command-- > 0 && !set.contains((x+dirs[d][0])+" "+(y+dirs[d][1]))){
-                    x+= dirs[d][0];
-                    y+= dirs[d][1];
-                    result = Math.max(result, (x*x+y*y));
-                }
+            d = (command == -1 && ++d == 4) ? 0: (command == -2 && --d == -1) ? 3 : d;
+            while(d >= 0 && command-- > 0 && !set.contains((x+dirs[d][0])+" "+(y+dirs[d][1]))){
+                x+= dirs[d][0];
+                y+= dirs[d][1];
+                result = Math.max(result, (x*x+y*y));
             }
         }
         return result;
