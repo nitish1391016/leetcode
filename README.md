@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/nitish1391016/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0906-walking-robot-simulation](https://github.com/nitish1391016/leetcode/tree/master/0906-walking-robot-simulation) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitish1391016/leetcode/tree/master/0002-add-two-numbers) |
+| [0142-linked-list-cycle-ii](https://github.com/nitish1391016/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitish1391016/leetcode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/nitish1391016/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
