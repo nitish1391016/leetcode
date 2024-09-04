@@ -1,34 +1,32 @@
 class Solution {
     public int robotSim(int[] commands, int[][] obstacles) {
-        Set<String> obstacleSet = new HashSet<>();
-        for (int[] obstacle : obstacles) {
-            obstacleSet.add(obstacle[0] + " " + obstacle[1]);
+        HashSet<String> set = new HashSet<>();
+        for(int[] o: obstacles){
+            set.add(o[0]+" "+o[1]);
         }
-
-        int[][] directions = new int[][] { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } };
-        int directionIndex = 0, posX = 0, posY = 0, maxDistance = 0;
-
-        for (int command : commands) {
-            if (command == -1) {
-                directionIndex = (directionIndex + 1) % 4;
-            } else if (command == -2) {
-                directionIndex = (directionIndex + 3) % 4;
-            } else {
-                int dx = directions[directionIndex][0];
-                int dy = directions[directionIndex][1];
-
-                while (command-- > 0) {
-                    int nextX = posX + dx;
-                    int nextY = posY + dy;
-                    if (obstacleSet.contains(nextX + " " + nextY)) {
-                        break;
-                    }
-                    posX = nextX;
-                    posY = nextY;
+        int[][] dirs = new int[][] {{0,1}, {1,0}, {0, -1}, {-1, 0}};
+        int x = 0, y =0;
+        int d = 0;
+        int result = 0;
+        for(int command: commands){
+            if(command == -1){
+                d++;
+                if(d == 4)
+                    d = 0;
+            }
+            else if(command == -2){
+                d--;
+                if(d == -1)
+                    d = 3;
+            }
+            else{
+                while(command-- > 0 && !set.contains((x+dirs[d][0])+" "+(y+dirs[d][1]))){
+                    x+= dirs[d][0];
+                    y+= dirs[d][1];
+                    result = Math.max(result, (x*x+y*y));
                 }
-                maxDistance = Math.max(maxDistance, posX * posX + posY * posY);
             }
         }
-        return maxDistance;
+        return result;
     }
 }
