@@ -1,9 +1,10 @@
 class Solution {
     public int robotSim(int[] commands, int[][] obstacles) {
-        // Optimized custom hash function with bit shifting
+        // Use a large prime number slightly larger than the grid size to avoid collisions.
+        int prime = 40009; // Fine-tuned large prime number close to grid size
         HashSet<Integer> set = new HashSet<>();
         for (int[] o : obstacles) {
-            set.add((o[0] << 16) + o[1]); // Using bit shifting
+            set.add(o[0] * prime + o[1]);
         }
 
         int[][] dirs = new int[][]{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
@@ -16,10 +17,10 @@ class Solution {
             } else if (command == -2) {
                 d = (d + 3) % 4;
             } else {
-                for (int i = 0; i < command; i++) {
+                while (command-- > 0) {
                     int nx = x + dirs[d][0];
                     int ny = y + dirs[d][1];
-                    if (set.contains((nx << 16) + ny)) {
+                    if (set.contains(nx * prime + ny)) {
                         break;
                     }
                     x = nx;
