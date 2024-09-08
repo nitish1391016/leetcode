@@ -3,16 +3,18 @@ class Solution {
         int i = 0;
         int m = word1.length();
         int n = word2.length();
+        char[] str1 = word1.toCharArray();
+        char[] str2 = word2.toCharArray();
         String res = "";
         while (i < m && i < n) {
-            res += word1.charAt(i);
-            res += word2.charAt(i++);
+            res += str1[i];
+            res += str2[i++];
         }
         while (i < m) {
-            res += word1.charAt(i++);
+            res += str1[i++];
         }
         while (i < n)
-            res += word2.charAt(i++);
+            res += str2[i++];
         return res;
     }
 }
