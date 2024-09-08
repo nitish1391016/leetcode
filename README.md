@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/nitish1391016/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nitish1391016/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/nitish1391016/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/nitish1391016/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Tree
 |  |
