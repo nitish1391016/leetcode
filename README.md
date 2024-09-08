@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitish1391016/leetcode/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/nitish1391016/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/nitish1391016/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/nitish1391016/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nitish1391016/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
