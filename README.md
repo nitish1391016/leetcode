@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitish1391016/leetcode/tree/master/0054-spiral-matrix) |
 | [0228-summary-ranges](https://github.com/nitish1391016/leetcode/tree/master/0228-summary-ranges) |
+| [0539-minimum-time-difference](https://github.com/nitish1391016/leetcode/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/nitish1391016/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish1391016/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nitish1391016/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0539-minimum-time-difference](https://github.com/nitish1391016/leetcode/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nitish1391016/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1894-merge-strings-alternately](https://github.com/nitish1391016/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nitish1391016/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitish1391016/leetcode/tree/master/0002-add-two-numbers) |
+| [0539-minimum-time-difference](https://github.com/nitish1391016/leetcode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/nitish1391016/leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nitish1391016/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nitish1391016/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/nitish1391016/leetcode/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
