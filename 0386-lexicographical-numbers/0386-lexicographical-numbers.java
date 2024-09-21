@@ -1,22 +1,25 @@
 class Solution {
+
     public List<Integer> lexicalOrder(int n) {
-        List<Integer> res = new LinkedList<Integer>();
-        for (int i = 1; i < 10; i++) {
-            addNums(n, i, res);
-        }
-        return res;
-    }
+        List<Integer> lexicographicalNumbers = new ArrayList<>();
+        int currentNumber = 1;
 
-    private static void addNums(int limit, int num, List<Integer> res) {
-        if (num > limit)
-            return;
+        // Generate numbers from 1 to n
+        for (int i = 0; i < n; ++i) {
+            lexicographicalNumbers.add(currentNumber);
 
-        res.add(num);
-        for (int i = 0; i < 10; i++) {
-            if (num < limit) {
-                addNums(limit, num * 10 + i, res);
-            } else
-                break;
+            // If multiplying the current number by 10 is within the limit, do it
+            if (currentNumber * 10 <= n) {
+                currentNumber *= 10;
+            } else {
+                // Adjust the current number by moving up one digit
+                while (currentNumber % 10 == 9 || currentNumber >= n) {
+                    currentNumber /= 10; // Remove the last digit
+                }
+                currentNumber += 1; // Increment the number
+            }
         }
+
+        return lexicographicalNumbers;
     }
 }
