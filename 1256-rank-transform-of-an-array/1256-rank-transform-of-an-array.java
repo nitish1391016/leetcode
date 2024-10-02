@@ -1,21 +1,22 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        int n = arr.length;
-        int[] sortedArray = Arrays.copyOf(arr, n);
-        Arrays.sort(sortedArray);
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int i = 0,rank=0;
-        while( i < n-1) {
-            if(sortedArray[i]<sortedArray[i+1]) rank++;
-            map.put(sortedArray[i], rank);
-            i++;
+        TreeMap<Integer, List<Integer>> map = new TreeMap<Integer, List<Integer>>();
+        for(int i=0;i<arr.length;i++){
+            if(map.containsKey(arr[i])){
+                map.get(arr[i]).add(i);
+            }
+            else{
+                map.put(arr[i], new LinkedList<Integer>());
+                map.get(arr[i]).add(i);
+            }
         }
-        if(i == n-1)
-            map.put(sortedArray[i], ++rank);
-        for(i=0;i<n;i++){
-            sortedArray[i] = map.get(arr[i]);
+        int rank =1;
+        for(int key: map.keySet()){
+            for(int index: map.get(key)){
+                arr[index] = rank;
+            }
+            rank++;
         }
-        return sortedArray;
+        return arr;
     }
 }
