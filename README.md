@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nitish1391016/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/nitish1391016/leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/nitish1391016/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish1391016/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/nitish1391016/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nitish1391016/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish1391016/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/nitish1391016/leetcode/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish1391016/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
