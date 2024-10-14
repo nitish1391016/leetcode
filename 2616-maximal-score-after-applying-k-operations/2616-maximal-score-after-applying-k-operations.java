@@ -1,17 +1,20 @@
 class Solution {
+
     public long maxKelements(int[] nums, int k) {
-        long res = 0;
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
-        for (int num : nums) {
-            maxHeap.add(num);
+        long ans = 0;
+        PriorityQueue<Integer> pq = new PriorityQueue<>(
+            Collections.reverseOrder()
+        );
+
+        for (int i : nums) {
+            pq.add(i);
         }
 
-        for (int i = 0; i < k; i++) {
-                int maxValue = maxHeap.poll();
-                res += maxValue;
-                int val = (int)Math.ceil((double)maxValue/3);
-                maxHeap.add(val);
+        while (k-- > 0) {
+            int maxElement = pq.poll();
+            ans += maxElement;
+            pq.add((int) Math.ceil(maxElement / 3.0));
         }
-        return res;
+        return ans;
     }
 }
