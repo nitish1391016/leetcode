@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitish1391016/leetcode/tree/master/0002-add-two-numbers) |
 | [0539-minimum-time-difference](https://github.com/nitish1391016/leetcode/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/nitish1391016/leetcode/tree/master/0670-maximum-swap) |
 | [2155-find-missing-observations](https://github.com/nitish1391016/leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nitish1391016/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/nitish1391016/leetcode/tree/master/0670-maximum-swap) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitish1391016/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/nitish1391016/leetcode/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
