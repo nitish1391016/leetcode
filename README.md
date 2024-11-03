@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/nitish1391016/leetcode/tree/master/0214-shortest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/nitish1391016/leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/nitish1391016/leetcode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/nitish1391016/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nitish1391016/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1197-parsing-a-boolean-expression](https://github.com/nitish1391016/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitish1391016/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nitish1391016/leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/nitish1391016/leetcode/tree/master/0812-rotate-string) |
 ## Matrix
 |  |
 | ------- |
