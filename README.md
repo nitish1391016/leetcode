@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nitish1391016/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish1391016/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nitish1391016/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/nitish1391016/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/nitish1391016/leetcode/tree/master/3451-string-compression-iii) |
 ## Hash Table
