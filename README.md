@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/nitish1391016/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2155-find-missing-observations](https://github.com/nitish1391016/leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/nitish1391016/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/nitish1391016/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nitish1391016/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitish1391016/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nitish1391016/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nitish1391016/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nitish1391016/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/nitish1391016/leetcode/tree/master/2465-shifting-letters-ii) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nitish1391016/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nitish1391016/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/nitish1391016/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/nitish1391016/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish1391016/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nitish1391016/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
