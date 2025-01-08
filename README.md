@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nitish1391016/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitish1391016/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish1391016/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nitish1391016/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nitish1391016/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nitish1391016/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nitish1391016/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/nitish1391016/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish1391016/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/nitish1391016/leetcode/tree/master/3451-string-compression-iii) |
 ## Hash Table
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/nitish1391016/leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/nitish1391016/leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/nitish1391016/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish1391016/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -205,10 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nitish1391016/leetcode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish1391016/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nitish1391016/leetcode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish1391016/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/nitish1391016/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitish1391016/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish1391016/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
