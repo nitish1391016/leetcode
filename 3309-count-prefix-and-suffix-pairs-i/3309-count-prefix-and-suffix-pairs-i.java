@@ -1,23 +1,21 @@
 class Solution {
-    public boolean isIndexPairs(String str1, String str2) {
-        if (str1.length() > str2.length())
+    private boolean isPrefixAndSuffix(String str1, String str2) {
+        int n1 = str1.length(), n2 = str2.length();
+        if (n1 > n2) {
             return false;
-        else if (str1.length() == str2.length())
-            return str1.equals(str2) ? true : false;
-        return str2.substring(0, str1.length()).equals(str1)
-                && str2.substring(str2.length() - str1.length()).equals(str1) ? true : false;
-
+        }
+        return str2.substring(0, n1).equals(str1) && str2.substring(n2 - n1).equals(str1);
     }
 
     public int countPrefixSuffixPairs(String[] words) {
-        int res = 0;
-        for (int i = 0; i < words.length; i++) {
-            for (int j = i + 1; j < words.length; j++) {
-                if (isIndexPairs(words[i], words[j])) {
-                    res++;
+        int n = words.length, count = 0;
+        for (int i = 0; i < n; ++i) {
+            for (int j = i + 1; j < n; ++j) {
+                if (isPrefixAndSuffix(words[i], words[j])) {
+                    count++;
                 }
             }
         }
-        return res;
+        return count;
     }
 }
