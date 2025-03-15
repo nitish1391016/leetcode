@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/nitish1391016/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nitish1391016/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitish1391016/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2690-house-robber-iv](https://github.com/nitish1391016/leetcode/tree/master/2690-house-robber-iv) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish1391016/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nitish1391016/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/nitish1391016/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/nitish1391016/leetcode/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nitish1391016/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2690-house-robber-iv](https://github.com/nitish1391016/leetcode/tree/master/2690-house-robber-iv) |
 ## Simulation
 |  |
 | ------- |
