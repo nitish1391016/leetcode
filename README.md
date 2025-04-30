@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/nitish1391016/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1256-rank-transform-of-an-array](https://github.com/nitish1391016/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitish1391016/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/nitish1391016/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish1391016/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1524-string-matching-in-an-array](https://github.com/nitish1391016/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nitish1391016/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/nitish1391016/leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/nitish1391016/leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/nitish1391016/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/nitish1391016/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2155-find-missing-observations](https://github.com/nitish1391016/leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nitish1391016/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
