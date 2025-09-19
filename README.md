@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nitish1391016/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nitish1391016/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nitish1391016/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3797-design-spreadsheet](https://github.com/nitish1391016/leetcode/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/nitish1391016/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nitish1391016/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/nitish1391016/leetcode/tree/master/3451-string-compression-iii) |
+| [3797-design-spreadsheet](https://github.com/nitish1391016/leetcode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nitish1391016/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nitish1391016/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3797-design-spreadsheet](https://github.com/nitish1391016/leetcode/tree/master/3797-design-spreadsheet) |
 ## Linked List
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/nitish1391016/leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/nitish1391016/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2411-spiral-matrix-iv](https://github.com/nitish1391016/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [3797-design-spreadsheet](https://github.com/nitish1391016/leetcode/tree/master/3797-design-spreadsheet) |
 ## Number Theory
 |  |
 | ------- |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/nitish1391016/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/nitish1391016/leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/nitish1391016/leetcode/tree/master/0859-design-circular-deque) |
+| [3797-design-spreadsheet](https://github.com/nitish1391016/leetcode/tree/master/3797-design-spreadsheet) |
 ## Segment Tree
 |  |
 | ------- |
