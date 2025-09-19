@@ -5,15 +5,14 @@ class Spreadsheet {
     }
     
     public void setCell(String cell, int value) {
-        int x = (int)(cell.charAt(0)-'A')+1;
-        int y = Integer.parseInt(cell.substring(1));
-        System.out.println("x "+x + "y: "+ y);
+        int x = (int)(cell.charAt(0)-'A');
+        int y = Integer.parseInt(cell.substring(1))-1;
         sheet[x][y] = value;
     }
     
     public void resetCell(String cell) {
-        int x = (int)(cell.charAt(0)-'A')+1;
-        int y = Integer.parseInt(cell.substring(1));
+        int x = (int)(cell.charAt(0)-'A');
+        int y = Integer.parseInt(cell.substring(1))-1;
         sheet[x][y] = 0;        
     }
     
@@ -31,15 +30,11 @@ class Spreadsheet {
         }
         else
             num2 = Integer.parseInt(split[1]);
-        System.out.print("num1:"+num1);
-        System.out.println("num2:"+num2);
         return num1+num2;
     }
     private int getCell(String cell){
-        int x = (int)(cell.charAt(0)-'A')+1;
-        int y = Integer.parseInt(cell.substring(1));
-        System.out.println("get cell");
-        System.out.println("x "+x + "y: "+ y);
+        int x = (int)(cell.charAt(0)-'A');
+        int y = Integer.parseInt(cell.substring(1))-1;
         return sheet[x][y];
     }
 }
