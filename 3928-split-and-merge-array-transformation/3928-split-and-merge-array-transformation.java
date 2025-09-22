@@ -10,8 +10,8 @@ class Solution {
 
         Queue<List<Integer>> q = new LinkedList<>();
         q.offer(list1);
-        Set<List<Integer>> hashset = new HashSet<>();
-        hashset.add(list1);
+        Set<String> seen = new HashSet<>();
+        seen.add(list1.toString());
         int steps = 0;
 
         while(!q.isEmpty()){
@@ -30,10 +30,11 @@ class Solution {
                         newli.addAll(left);
                         newli.addAll(right);
                         for(int ind = 0;ind < newli.size();ind++){
+                            if (ind >= l && ind <= r+1) continue; // skip no-op moves
                             List<Integer> finalli = new ArrayList<Integer>(newli);
                             finalli.addAll(ind, rem);
-                            if(!hashset.contains(finalli)){
-                                hashset.add(finalli);
+                            if(!seen.contains(finalli.toString())){
+                                seen.add(finalli.toString());
                                 q.offer(finalli);
                             }
                         }
