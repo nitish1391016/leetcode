@@ -9,7 +9,6 @@ class Solution {
         int secprev = nums[0];
         int prev = Math.max(nums[0], nums[1]);
         for(int i=2;i<nums.length;i++) {
-            System.out.println("pre: "+ prev + "secprev: "+ secprev);
             int curr = Math.max(secprev+nums[i], prev);
             secprev = prev;
             prev = curr;
