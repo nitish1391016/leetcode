@@ -9,42 +9,39 @@ class Solution {
         if(list1.equals(list2))   return 0;
 
         Queue<List<Integer>> q = new LinkedList<>();
-        Set<String> seen = new HashSet<>();
         q.offer(list1);
-        seen.add(list1.toString());
+        Set<List<Integer>> hashset = new HashSet<>();
+        hashset.add(list1);
         int steps = 0;
 
-        while (!q.isEmpty()) {
-            int size = q.size();
-            for (int i = 0; i < size; i++) {
+        while(!q.isEmpty()){
+            int size = q.size(); 
+            for(int i=0;i<size;i++){
                 List<Integer> curr = q.poll();
-                if (curr.equals(list2)) return steps;
-
-                for (int l = 0; l < curr.size(); l++) {
-                    for (int r = l; r < curr.size(); r++) {
+                if(curr.equals(list2)) return steps; 
+                for(int l=0;l<curr.size();l++){
+                    for(int r=l;r<curr.size();r++){
+                        // making sublist of 0 does not make sense, so starting from l+1
                         List<Integer> left = new ArrayList<>(curr.subList(0, l));
-                        List<Integer> right = new ArrayList<>(curr.subList(r + 1, curr.size()));
-                        List<Integer> rem = new ArrayList<>(curr.subList(l, r + 1));
+                        List<Integer> right = new ArrayList<>(curr.subList(r+1, curr.size()));
+                        List<Integer> rem = new ArrayList<>(curr.subList(l, r+1));
 
                         List<Integer> newli = new ArrayList<>();
                         newli.addAll(left);
                         newli.addAll(right);
-
-                        for (int ind = 0; ind <= newli.size(); ind++) {
-                            if (ind >= l && ind <= r+1) continue; // optional pruning
-                            List<Integer> nextState = new ArrayList<>(newli);
-                            nextState.addAll(ind, rem);
-
-                            if (seen.add(nextState.toString())) {
-                                q.offer(nextState);
+                        for(int ind = 0;ind < newli.size();ind++){
+                            List<Integer> finalli = new ArrayList<Integer>(newli);
+                            finalli.addAll(ind, rem);
+                            if(!hashset.contains(finalli)){
+                                hashset.add(finalli);
+                                q.offer(finalli);
                             }
                         }
                     }
                 }
             }
-            steps++;
+            steps++; 
         }
-
         return -1;
     }
 
