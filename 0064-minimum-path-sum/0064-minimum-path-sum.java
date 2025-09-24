@@ -9,10 +9,16 @@ class Solution {
     }
     public int minPath(int[][] grid, int m, int n, int[][] dp){
         if(m == 0 && n == 0) return grid[0][0];
-        if(m < 0 || n < 0) return 100000;
+        if(m < 0 || n < 0) return Integer.MAX_VALUE;
         if(dp[m][n] != -1) return dp[m][n];
-        int left = grid[m][n] + minPath(grid, m-1, n, dp);
-        int right =grid[m][n] + minPath(grid, m, n-1, dp);
+        int up = minPath(grid, m-1, n, dp);
+        int left = Integer.MAX_VALUE;
+        int right = Integer.MAX_VALUE;
+        if(up != Integer.MAX_VALUE)
+            left = grid[m][n] + up;
+        int down = minPath(grid, m, n-1, dp);
+        if(down != Integer.MAX_VALUE)
+            right =grid[m][n] + down;
         dp[m][n] = Math.min(left, right);
         return dp[m][n];
     }
