@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitish1391016/leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/nitish1391016/leetcode/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nitish1391016/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0539-minimum-time-difference](https://github.com/nitish1391016/leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/nitish1391016/leetcode/tree/master/0670-maximum-swap) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/nitish1391016/leetcode/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/nitish1391016/leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/nitish1391016/leetcode/tree/master/0198-house-robber) |
 | [0806-domino-and-tromino-tiling](https://github.com/nitish1391016/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/nitish1391016/leetcode/tree/master/0900-reordered-power-of-2) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nitish1391016/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
