@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/nitish1391016/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/nitish1391016/leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/nitish1391016/leetcode/tree/master/0906-walking-robot-simulation) |
+| [0967-minimum-falling-path-sum](https://github.com/nitish1391016/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/nitish1391016/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nitish1391016/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nitish1391016/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nitish1391016/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/nitish1391016/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitish1391016/leetcode/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/nitish1391016/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1972-rotating-the-box](https://github.com/nitish1391016/leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/nitish1391016/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2411-spiral-matrix-iv](https://github.com/nitish1391016/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/nitish1391016/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nitish1391016/leetcode/tree/master/0198-house-robber) |
 | [0806-domino-and-tromino-tiling](https://github.com/nitish1391016/leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0967-minimum-falling-path-sum](https://github.com/nitish1391016/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nitish1391016/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Design
