@@ -11,7 +11,7 @@ class Solution {
         }
         sub.add(nums[n]);
         subset(nums, sub, n-1);
-        sub.remove(Integer.valueOf(nums[n]));
+        sub.remove(sub.size()-1);
         subset(nums, sub, n-1);
     }
 }
