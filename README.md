@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nitish1391016/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/nitish1391016/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2155-find-missing-observations](https://github.com/nitish1391016/leetcode/tree/master/2155-find-missing-observations) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitish1391016/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitish1391016/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nitish1391016/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nitish1391016/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/nitish1391016/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/nitish1391016/leetcode/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nitish1391016/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitish1391016/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitish1391016/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/nitish1391016/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2690-house-robber-iv](https://github.com/nitish1391016/leetcode/tree/master/2690-house-robber-iv) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/nitish1391016/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/nitish1391016/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/nitish1391016/leetcode/tree/master/1972-rotating-the-box) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitish1391016/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/nitish1391016/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/nitish1391016/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Tree
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish1391016/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nitish1391016/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nitish1391016/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitish1391016/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nitish1391016/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nitish1391016/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/nitish1391016/leetcode/tree/master/3394-minimum-array-end) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nitish1391016/leetcode/tree/master/0198-house-robber) |
 | [0806-domino-and-tromino-tiling](https://github.com/nitish1391016/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0967-minimum-falling-path-sum](https://github.com/nitish1391016/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitish1391016/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2755-extra-characters-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nitish1391016/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Design
@@ -307,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/nitish1391016/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/nitish1391016/leetcode/tree/master/0731-my-calendar-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitish1391016/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2413-smallest-number-in-infinite-set](https://github.com/nitish1391016/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
 |  |
@@ -366,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nitish1391016/leetcode/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nitish1391016/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
