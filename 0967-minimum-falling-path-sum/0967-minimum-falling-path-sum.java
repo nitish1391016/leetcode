@@ -4,9 +4,9 @@ class Solution {
         int[][] dp = new int[len][len];
         
         int min = Integer.MAX_VALUE;
+        for(int[] list: dp)
+            Arrays.fill(list, 20000);
         for(int i=0;i < len; i++){
-            for(int[] list: dp)
-                Arrays.fill(list, 20000);
             min = Math.min(min, minFalling(m, 0, i, dp));
         }
         return min;
