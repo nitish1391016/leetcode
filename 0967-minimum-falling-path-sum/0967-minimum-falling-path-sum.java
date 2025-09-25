@@ -5,7 +5,7 @@ class Solution {
         
         int min = Integer.MAX_VALUE;
         for(int[] list: dp)
-            Arrays.fill(list, 20000);
+            Arrays.fill(list, Integer.MAX_VALUE);
         for(int i=0;i < len; i++){
             min = Math.min(min, minFalling(m, 0, i, dp));
         }
@@ -13,9 +13,9 @@ class Solution {
     }
 
     public int minFalling(int[][] m, int row, int col, int[][] dp){
-        if(row == m.length || col < 0 || col == m.length) return 200000;
+        if(row == m.length || col < 0 || col == m.length) return Integer.MAX_VALUE;
         if(row == m.length-1 && col < m.length) return m[row][col];
-        if(dp[row][col] != 20000)
+        if(dp[row][col] != Integer.MAX_VALUE)
             return dp[row][col];
         int left = minFalling(m, row+1, col-1, dp); 
         int right = minFalling(m, row+1, col+1, dp);
