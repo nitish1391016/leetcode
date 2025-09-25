@@ -1,5 +1,5 @@
 class Solution {
-    List<List<Integer>> res = new LinkedList<List<Integer>>();
+    List<List<Integer>> res = new ArrayList<List<Integer>>();
     public List<List<Integer>> subsets(int[] nums) {
         subset(nums, new ArrayList<Integer>(), nums.length-1);
         return res;
