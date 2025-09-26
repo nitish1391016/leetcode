@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nitish1391016/leetcode/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/nitish1391016/leetcode/tree/master/0228-summary-ranges) |
 | [0539-minimum-time-difference](https://github.com/nitish1391016/leetcode/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/nitish1391016/leetcode/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/nitish1391016/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/nitish1391016/leetcode/tree/master/0731-my-calendar-ii) |
 | [0797-rabbits-in-forest](https://github.com/nitish1391016/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/nitish1391016/leetcode/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/nitish1391016/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/nitish1391016/leetcode/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nitish1391016/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nitish1391016/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/nitish1391016/leetcode/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/nitish1391016/leetcode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/nitish1391016/leetcode/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/nitish1391016/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/nitish1391016/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/nitish1391016/leetcode/tree/master/1972-rotating-the-box) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/nitish1391016/leetcode/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/nitish1391016/leetcode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/nitish1391016/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1256-rank-transform-of-an-array](https://github.com/nitish1391016/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitish1391016/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/nitish1391016/leetcode/tree/master/0045-jump-game-ii) |
+| [0611-valid-triangle-number](https://github.com/nitish1391016/leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/nitish1391016/leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/nitish1391016/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/nitish1391016/leetcode/tree/master/1502-construct-k-palindrome-strings) |
