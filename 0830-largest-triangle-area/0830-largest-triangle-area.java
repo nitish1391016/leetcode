@@ -1,18 +1,28 @@
 class Solution {
     public double largestTriangleArea(int[][] points) {
-        double area = Integer.MIN_VALUE;
-        for(int i=0;i<points.length-2;i++){
-            for(int j=i+1;j<points.length-1; j++){
-                for(int k=j+1;k<points.length;k++){
-                    double curr = area(points[i][0], points[i][1], points[j][0], points[j][1], points[k][0], points[k][1]);
-                    if(area < curr)
-                        area = curr;
+        double maxArea = 0;
+        int n = points.length;
+        
+        for (int i = 0; i < n - 2; i++) {
+            for (int j = i + 1; j < n - 1; j++) {
+                for (int k = j + 1; k < n; k++) {
+                    double curr = triangleArea(points[i], points[j], points[k]);
+                    if (curr > maxArea) {
+                        maxArea = curr;
+                    }
                 }
             }
         }
-        return area;
+        
+        return maxArea;
     }
-    public static double area(double x1, double y1, double x2, double y2, double x3, double y3) {
-        return 0.5 * Math.abs(x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2));
+    
+    private double triangleArea(int[] p1, int[] p2, int[] p3) {
+        // Shoelace formula
+        return 0.5 * Math.abs(
+            p1[0]*(p2[1]-p3[1]) + 
+            p2[0]*(p3[1]-p1[1]) + 
+            p3[0]*(p1[1]-p2[1])
+        );
     }
 }
