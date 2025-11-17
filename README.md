@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nitish1391016/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nitish1391016/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1524-string-matching-in-an-array](https://github.com/nitish1391016/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nitish1391016/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nitish1391016/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nitish1391016/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1923-sentence-similarity-iii](https://github.com/nitish1391016/leetcode/tree/master/1923-sentence-similarity-iii) |
