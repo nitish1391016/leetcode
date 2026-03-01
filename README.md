@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/nitish1391016/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nitish1391016/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nitish1391016/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nitish1391016/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nitish1391016/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1768-merge-strings-alternately](https://github.com/nitish1391016/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/nitish1391016/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/nitish1391016/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1502-construct-k-palindrome-strings](https://github.com/nitish1391016/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nitish1391016/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nitish1391016/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2089-maximum-matrix-sum](https://github.com/nitish1391016/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nitish1391016/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nitish1391016/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
