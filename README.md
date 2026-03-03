@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitish1391016/leetcode/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/nitish1391016/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/nitish1391016/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nitish1391016/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nitish1391016/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/nitish1391016/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/nitish1391016/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/nitish1391016/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nitish1391016/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/nitish1391016/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nitish1391016/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nitish1391016/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nitish1391016/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitish1391016/leetcode/tree/master/0002-add-two-numbers) |
 | [1197-parsing-a-boolean-expression](https://github.com/nitish1391016/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/nitish1391016/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nitish1391016/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
